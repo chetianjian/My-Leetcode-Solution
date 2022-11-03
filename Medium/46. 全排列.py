@@ -40,6 +40,5 @@ def permute0(nums: list[int]) -> list[list[int]]:
     return dp[-1]
 
 
-
 print(permute(nums=[1, 2, 3]))
 print(permute0([1, 2, 3, 4]))

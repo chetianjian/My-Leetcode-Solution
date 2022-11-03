@@ -30,7 +30,6 @@
 #  -1000 <= points[i][0], points[i][1] <= 1000
 
 
-
 def minTimeToVisitAllPoints(points: list[list[int]]) -> int:
     count = 0
     for i in range(1, len(points)):
