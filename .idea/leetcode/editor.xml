@@ -14,6 +14,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1266]访问所有点的最小时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1266]访问所有点的最小时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1266" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1266]访问所有点的最小时间.py" />
+              <option name="titleSlug" value="minimum-time-visiting-all-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1629]按键持续时间最长的键.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1629]按键持续时间最长的键.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1629" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1629]按键持续时间最长的键.py" />
+              <option name="titleSlug" value="slowest-key" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1662]检查两个字符串数组是否相等.py">
           <value>
             <LeetcodeEditor>
@@ -44,6 +66,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[46]全排列.py" />
               <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[774]最小化去加油站的最大距离.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[774]最小化去加油站的最大距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn774" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[774]最小化去加油站的最大距离.py" />
+              <option name="titleSlug" value="minimize-max-distance-to-gas-station" />
             </LeetcodeEditor>
           </value>
         </entry>
