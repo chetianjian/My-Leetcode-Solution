@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[299]猜数字游戏.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[299]猜数字游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn299" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[299]猜数字游戏.py" />
+              <option name="titleSlug" value="bulls-and-cows" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[318]最大单词长度乘积.py">
           <value>
             <LeetcodeEditor>
@@ -234,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[78]子集.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[78]子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn78" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[78]子集.py" />
+              <option name="titleSlug" value="subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[790]多米诺和托米诺平铺.py">
           <value>
             <LeetcodeEditor>
@@ -275,6 +297,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[89]格雷编码.py" />
               <option name="titleSlug" value="gray-code" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[90]子集 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[90]子集 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn90" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[90]子集 II.py" />
+              <option name="titleSlug" value="subsets-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[939]最小面积矩形.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[939]最小面积矩形.md" />
+              <option name="frontendQuestionId" value="leetcode.cn939" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[939]最小面积矩形.py" />
+              <option name="titleSlug" value="minimum-area-rectangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer II 113]课程顺序.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[剑指 Offer II 113]课程顺序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 113" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer II 113]课程顺序.py" />
+              <option name="titleSlug" value="QA2IGt" />
             </LeetcodeEditor>
           </value>
         </entry>
