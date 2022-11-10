@@ -14,6 +14,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1111]有效括号的嵌套深度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1111]有效括号的嵌套深度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1111" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1111]有效括号的嵌套深度.py" />
+              <option name="titleSlug" value="maximum-nesting-depth-of-two-valid-parentheses-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1200]最小绝对差.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1200]最小绝对差.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1200" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1200]最小绝对差.py" />
+              <option name="titleSlug" value="minimum-absolute-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[121]买卖股票的最佳时机.py">
           <value>
             <LeetcodeEditor>
@@ -22,6 +44,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[121]买卖股票的最佳时机.py" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1229]安排会议日程.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1229]安排会议日程.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1229" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1229]安排会议日程.py" />
+              <option name="titleSlug" value="meeting-scheduler" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -47,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1326]灌溉花园的最少水龙头数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1326]灌溉花园的最少水龙头数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1326" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1326]灌溉花园的最少水龙头数目.py" />
+              <option name="titleSlug" value="minimum-number-of-taps-to-open-to-water-a-garden" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1329]将矩阵按对角线排序.py">
           <value>
             <LeetcodeEditor>
@@ -66,6 +110,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1408]数组中的字符串匹配.py" />
               <option name="titleSlug" value="string-matching-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1421]净现值查询.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1421]净现值查询.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1421" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1421]净现值查询.py" />
+              <option name="titleSlug" value="npv-queries" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -113,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1688]比赛中的配对次数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1688]比赛中的配对次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1688" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1688]比赛中的配对次数.py" />
+              <option name="titleSlug" value="count-of-matches-in-tournament" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1905]统计子岛屿.py">
           <value>
             <LeetcodeEditor>
@@ -132,6 +198,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py" />
               <option name="titleSlug" value="reverse-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1932]合并多棵二叉搜索树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1932]合并多棵二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1932" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1932]合并多棵二叉搜索树.py" />
+              <option name="titleSlug" value="merge-bsts-to-create-single-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -212,6 +289,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[554]砖墙.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[554]砖墙.md" />
+              <option name="frontendQuestionId" value="leetcode.cn554" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[554]砖墙.py" />
+              <option name="titleSlug" value="brick-wall" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[555]分割连接字符串.py">
           <value>
             <LeetcodeEditor>
@@ -231,6 +319,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[600]不含连续1的非负整数.py" />
               <option name="titleSlug" value="non-negative-integers-without-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[602]好友申请 II ：谁有最多的好友.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[602]好友申请 II ：谁有最多的好友.md" />
+              <option name="frontendQuestionId" value="leetcode.cn602" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[602]好友申请 II ：谁有最多的好友.py" />
+              <option name="titleSlug" value="friend-requests-ii-who-has-the-most-friends" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -341,6 +440,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[939]最小面积矩形.py" />
               <option name="titleSlug" value="minimum-area-rectangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer II 053]二叉搜索树中的中序后继.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[剑指 Offer II 053]二叉搜索树中的中序后继.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 053" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer II 053]二叉搜索树中的中序后继.py" />
+              <option name="titleSlug" value="P5rCT8" />
             </LeetcodeEditor>
           </value>
         </entry>
