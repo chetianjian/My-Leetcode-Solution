@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1757]可回收且低脂的产品.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1757]可回收且低脂的产品.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1757" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1757]可回收且低脂的产品.py" />
+              <option name="titleSlug" value="recyclable-and-low-fat-products" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1905]统计子岛屿.py">
           <value>
             <LeetcodeEditor>
@@ -198,6 +209,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py" />
               <option name="titleSlug" value="reverse-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1929]数组串联.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1929]数组串联.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1929" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1929]数组串联.py" />
+              <option name="titleSlug" value="concatenation-of-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -231,6 +253,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[228]汇总区间.py" />
               <option name="titleSlug" value="summary-ranges" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2413]最小偶倍数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2413]最小偶倍数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2413" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2413]最小偶倍数.py" />
+              <option name="titleSlug" value="smallest-even-multiple" />
             </LeetcodeEditor>
           </value>
         </entry>
