@@ -39,4 +39,5 @@ def reverseWords(s: str) -> str:
 
     return " ".join(s).strip()
 
+
 print(reverseWords(s = "a good   example"))
