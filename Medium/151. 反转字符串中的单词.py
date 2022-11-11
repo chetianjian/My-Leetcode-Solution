@@ -15,7 +15,7 @@
 # 解释：反转后的字符串中不能存在前导空格和尾随空格。
 #
 #  示例 3：
-# 输入：s = "a good example"
+# 输入：s = "a good   example"
 # 输出："example good a"
 # 解释：如果两个单词间有多余的空格，反转后的字符串需要将单词间的空格减少到仅有一个。
 #
@@ -30,5 +30,13 @@
 
 
 def reverseWords(s: str) -> str:
-    return " ".join(s.split(" ")[::-1])
+    s = s.split(" ")[::-1]
+    for i in range(len(s)-1, -1, -1):
+        if not s[i]:
+            s.pop(i)
+        else:
+            continue
 
+    return " ".join(s).strip()
+
+print(reverseWords(s = "a good   example"))
