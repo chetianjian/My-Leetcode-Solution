@@ -35,7 +35,6 @@ def makeGood(s: str) -> str:
             if abs(ord(s[i])-ord(s[i+1])) == 32:
                 s = s[:i] + s[i+2:]
                 break
-
         else:
             return s
         continue
