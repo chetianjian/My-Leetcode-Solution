@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1436]旅行终点站.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1436]旅行终点站.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1436" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1436]旅行终点站.py" />
+              <option name="titleSlug" value="destination-city" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1512]好数对的数目.py">
           <value>
             <LeetcodeEditor>
@@ -212,6 +223,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1706]球会落何处.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1706]球会落何处.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1706" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1706]球会落何处.py" />
+              <option name="titleSlug" value="where-will-the-ball-fall" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1757]可回收且低脂的产品.py">
           <value>
             <LeetcodeEditor>
@@ -220,6 +242,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1757]可回收且低脂的产品.py" />
               <option name="titleSlug" value="recyclable-and-low-fat-products" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1816]截断句子.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1816]截断句子.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1816" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1816]截断句子.py" />
+              <option name="titleSlug" value="truncate-sentence" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -289,6 +322,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2380]二进制字符串重新安排顺序需要的时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2380]二进制字符串重新安排顺序需要的时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2380" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2380]二进制字符串重新安排顺序需要的时间.py" />
+              <option name="titleSlug" value="time-needed-to-rearrange-a-binary-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2399]检查相同字母间的距离.py">
           <value>
             <LeetcodeEditor>
@@ -352,6 +396,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[46]全排列.py" />
               <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[48]旋转图像.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[48]旋转图像.md" />
+              <option name="frontendQuestionId" value="leetcode.cn48" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[48]旋转图像.py" />
+              <option name="titleSlug" value="rotate-image" />
             </LeetcodeEditor>
           </value>
         </entry>
